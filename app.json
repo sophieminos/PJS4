@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PJS4",
+    "slug": "PJS4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PJS4"
+}
